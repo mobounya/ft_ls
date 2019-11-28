@@ -13,7 +13,7 @@ between a pleasant project experience and an abominable one. For example, if you
 , your life will be more enjoyable. It is possible to complete the ft_ls project without the ft_printf function. 
 By the same token, you can easily eat a yogurt with your fingers. A spoon would still make your experience more pleasant.
 
-Objectives :
+Objectives
 The project ft_ls opens the path to the Unix branch of the sphere system. For the first time, you will have to face the one
 libc functions that will allow you to do other things than just read or write on a file descriptor (this is to simplify of 
 course). You will discover a sub-system of functions of operating system’s API, the associated data structures, as well as the 
